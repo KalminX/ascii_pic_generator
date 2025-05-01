@@ -1,4 +1,3 @@
-```markdown
 # 🖼️ Image to ASCII Art Generator
 
 A simple Python tool that converts images into ASCII art! It loops through all images in the `input_images/` folder and outputs ASCII text versions into the `output_ascii/` folder.
@@ -81,4 +80,3 @@ Example image (`A.png`) will be converted to:
 
 Made with Python 🐍 and Pillow 🖼️  
 By [Kalmin]
-```
