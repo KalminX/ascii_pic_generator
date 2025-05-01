@@ -80,5 +80,5 @@ Example image (`A.png`) will be converted to:
 ## 🧠 Credits
 
 Made with Python 🐍 and Pillow 🖼️  
-By [Your Name]
+By [Kalmin]
 ```
